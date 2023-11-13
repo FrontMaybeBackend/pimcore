@@ -1,0 +1,14 @@
+pimcore:
+    objects:
+        custom_layouts:
+            definitions:
+                294b5b67-9bc6-48c0-9e72-cb63fbbce68e:
+                    id: 294b5b67-9bc6-48c0-9e72-cb63fbbce68e
+                    name: wqe
+                    description: ''
+                    creationDate: 1699475335
+                    modificationDate: 1699475335
+                    userOwner: 2
+                    classId: '1'
+                    layoutDefinitions: null
+                    default: 0
